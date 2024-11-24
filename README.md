@@ -4,8 +4,8 @@
     <h1>Data Science Notes</h1>
   </div>
 
-  <h3><p>📊 Data Science is an interdisciplinary field that uses methods, algorithms, and systems to extract knowledge and insights from data. 🚀 
-    It combines aspects of <strong>statistics</strong>, <strong>computer science</strong>, and <strong>domain expertise</strong>.</p></h3>
+  <h4><p>📊 Data Science is an interdisciplinary field that uses methods, algorithms, and systems to extract knowledge and insights from data. 🚀 
+    It combines aspects of <strong>statistics</strong>, <strong>computer science</strong>, and <strong>domain expertise</strong>.</p></h4>
     
 
   <h2>📝 Why Take Notes?</h2>
