@@ -17,6 +17,17 @@
   <p>Organize your learning, Organize your learning, Organize your learning.</p>
 
   <h3> Tools Used in Data Science</h3>
-  <p>Python, R, SQL, Machine Learning Frameworks.</p>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+
+<a href="https://www.r-project.org/" target="_blank">
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"></a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"></a>
+
+<a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://img.shields.io/badge/ML_Frameworks-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning Frameworks"></a>
+
 
 </div>
