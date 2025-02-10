@@ -14,9 +14,9 @@
     
 
   <h3> Why Take Notes?</h3>
-  Organize your learning, Organize your learning, Organize your learning.
+  <p>Organize your learning, Organize your learning, Organize your learning.</p>
 
   <h3> Tools Used in Data Science</h3>
-  Python, R, SQL, Machine Learning Frameworks.
+  <p>Python, R, SQL, Machine Learning Frameworks.</p>
 
 </div>
