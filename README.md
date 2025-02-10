@@ -13,8 +13,9 @@
     It combines aspects of <strong>statistics</strong>, <strong>computer science</strong>, and <strong>domain expertise</strong>.</p></h4>
     
 
-  <h3> Why Take Notes?</h3>
-  <p>Organize your learning, Organize your learning, Organize your learning.</p>
+  <h3>Why Take Notes?</h3>
+ <p>Structured notes enhance your understanding, reinforce key concepts, and serve as a valuable reference for future projects and research.</p>
+
 
   <h3> Tools Used in Data Science</h3>
   <a href="https://www.python.org/" target="_blank">
