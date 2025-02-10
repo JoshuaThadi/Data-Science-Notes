@@ -13,23 +13,10 @@
     It combines aspects of <strong>statistics</strong>, <strong>computer science</strong>, and <strong>domain expertise</strong>.</p></h4>
     
 
-  <h2> Why Take Notes?</h2>
-  <ul>
-    <li>Organize your learning </li>
-    <li>Retain knowledge better</li>
-    <li>Have quick references to revisit later </li>
-  </ul>
+  <h3> Why Take Notes?</h3>
+  Organize your learning, Organize your learning, Organize your learning.
 
-  <h2> Tools Used in Data Science</h2>
-  <p>
-    Some common tools include:
-  </p>
-  <ul>
-    <li>Python </li>
-    <li>R </li>
-    <li>SQL </li>
-    <li>Machine Learning Frameworks </li>
-  </ul>
+  <h3> Tools Used in Data Science</h3>
+  Python, R, SQL, Machine Learning Frameworks.
 
-  
 </div>
