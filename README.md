@@ -9,26 +9,26 @@
 </a>
 
   </div>
-  <h4><p>📊 Data Science is an interdisciplinary field that uses methods, algorithms, and systems to extract knowledge and insights from data. 🚀 
+  <h4><p>Data Science is an interdisciplinary field that uses methods, algorithms, and systems to extract knowledge and insights from data. 
     It combines aspects of <strong>statistics</strong>, <strong>computer science</strong>, and <strong>domain expertise</strong>.</p></h4>
     
 
-  <h2>📝 Why Take Notes?</h2>
+  <h2> Why Take Notes?</h2>
   <ul>
-    <li>Organize your learning 📚</li>
-    <li>Retain knowledge better 🧠</li>
-    <li>Have quick references to revisit later 📖</li>
+    <li>Organize your learning </li>
+    <li>Retain knowledge better</li>
+    <li>Have quick references to revisit later </li>
   </ul>
 
-  <h2>🔧 Tools Used in Data Science</h2>
+  <h2> Tools Used in Data Science</h2>
   <p>
     Some common tools include:
   </p>
   <ul>
-    <li>Python 🐍</li>
-    <li>R 📈</li>
-    <li>SQL 💾</li>
-    <li>Machine Learning Frameworks 🤖</li>
+    <li>Python </li>
+    <li>R </li>
+    <li>SQL </li>
+    <li>Machine Learning Frameworks </li>
   </ul>
 
   
